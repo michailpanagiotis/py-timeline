@@ -1,4 +1,4 @@
-# py-timeline
+# pytimeline
 A timeline to log and track events
 
 
